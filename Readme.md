@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Дарья Мирошниченко](https://up.htmlacademy.ru/javascript/22/user/1543425).
-* Наставник: `Неизвестно`.
+* Студент: [Дарья Мирошниченко](https://up.htmlacademy.ru/javascript/22/user/1543425)
+* Наставник: [Полина Прокофьева](https://htmlacademy.ru/profile/id1322073)
 
 ---
 
