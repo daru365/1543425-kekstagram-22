@@ -11,11 +11,10 @@ function getRandomIntInclusive(min, max) {
 //2. Функция для проверки максимальной длины строки. 
 
 function lengthCounter(checkLine, maxLength) {
-	if {
-		maxLength <= 140;
-		checkLine = true; 
-	} else {
-		checkLine = false;
-	}
-	return checkLine;
-}
+  if (maxLength <= 140) {
+	  checkLine = true; 
+  } else {
+	  checkLine = false;
+  };
+  return checkLine;
+};
