@@ -10,8 +10,9 @@ function getRandomIntInclusive(min, max) {
 
 //2. Функция для проверки максимальной длины строки. 
 
-function lengthCounter(checkLine, maxLength) {
-  return checkLine === maxLength
+let lengthCounter = function(checkLine, maxLength) {
+  return checkLine.length <= maxLength
 }
+
 getRandomIntInclusive();
 lengthCounter();
