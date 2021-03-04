@@ -43,4 +43,4 @@ const generateArray = () => {
 }
 generateArray();
 
-export {generateComments, generateRandomObject};
+export {generate comments, generateRandomObject, generateArray};

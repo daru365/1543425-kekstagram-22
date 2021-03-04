@@ -1,4 +1,4 @@
-import {generateRandomObject} from './data.js';
+import {generate comments, generateRandomObject, generateArray} from './data.js';
 
 const pictureListElement = document.querySelector('.picture');
 const pictureTemplate = document.querySelector('#picture')
