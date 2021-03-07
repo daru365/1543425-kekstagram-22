@@ -41,5 +41,6 @@ const generateArray = () => {
 
   return data;
 }
+const data = generateArray();
 
-export {generateRandomObject};
+export {data};
