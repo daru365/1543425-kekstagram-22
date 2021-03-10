@@ -28,7 +28,8 @@ const generateRandomObject = (id) => {
     url: 'photos/' + getRandomIntInclusive(1, 25) + '.jpg',
     description: 'Описание фото',
     likes: getRandomIntInclusive(15, 200),
-    comment: generateComments(getRandomIntInclusive(1, 5)),
+    comment: getRandomIntInclusive(1, 5),
+    commentText: generateComments(getRandomIntInclusive(1, 5)),
   };
 };
 
